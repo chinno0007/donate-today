@@ -141,4 +141,27 @@ body {
     margin-right: 30px;
 }
 
-/* Your Donation Start */
+/* My Update Section Added */
+
+.updates {
+    text-align: center;
+}
+
+.email-section {
+
+
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(187, 132, 201, 0.144);
+
+}
+
+/* Footer */
+
+footer {
+    font-family: 'Moon Dance', cursive;
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
