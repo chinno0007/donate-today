@@ -115,3 +115,29 @@ body {
     margin-left: 10px;
 
 }
+
+/* Donation System Start */
+
+.survive-donation {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
+}
+
+.survive-img img {
+    margin: 10px auto 20px;
+    display: block;
+    border-radius: 20px;
+
+
+}
+
+.survive-doc {
+    width: 40%;
+    margin-left: 30px;
+    justify-content: center;
+    text-align: justify;
+}
+
+/* Your Donation Start */
