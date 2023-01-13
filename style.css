@@ -1,0 +1,76 @@
+body {
+    margin: 0px auto;
+}
+
+#Donate-Cover {
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+}
+
+.Donate-Container {
+    text-align: center;
+    padding: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.Donate-Btn {
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(218, 92, 8, 0.986);
+    color: white;
+
+}
+
+.Donate-Btn a {
+    text-decoration: none;
+    color: white;
+
+}
+
+/* Donate Today Section Start */
+.donate-speach {
+
+    padding-bottom: 30px;
+}
+
+.Donate-ammount {
+    text-align: center;
+}
+
+.Ammount a {
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+
+}
+
+#Donation {
+    border: 2px solid red;
+    padding: 10px 15px;
+    background-color: rgb(235, 182, 119);
+}
+
+.taka {
+    margin-bottom: 2px;
+    color: rgb(126, 114, 97);
+}
+
+.Horizontal-Line {
+    width: 70%;
+    align-items: center;
+    margin-top: 0%;
+}
+
+.Taka-and-btn {
+    margin-bottom: 50px;
+}
